@@ -1,0 +1,32 @@
+h1
+{		
+	color:rebeccapurple;
+	font-family: ui-monospace;  
+	font-size:27pt;
+	text-decoration:underline;
+	text-decoration-style:wavy;
+}
+
+h2
+{		
+	color:darkgoldenrod;
+	font-family: Lucida Handwriting;
+	font-size:25pt;
+	text-decoration: underline double;
+}
+
+p
+{
+	color:turquoise;
+	font-family:cursive; 
+	font-size:23pt;
+	text-decoration: overline underline;
+	text-decoration-style:wavy;
+}
+
+pre
+{
+	font-size: x-large;
+	font: italic small-caps bold 32px/60px garamond;
+	color:royalblue;
+}
